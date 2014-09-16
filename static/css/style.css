@@ -1331,8 +1331,8 @@ body > .navbar-collapse .navbar-search .btn-primary:hover {
  * */
 .footer-9-map {
   padding: 0;
-  height: 550px;
-  min-height: 300px;
+  height: 250px;
+  min-height: 250px;
 }
 @media (max-width: 1200px) {
   .footer-9-map {
